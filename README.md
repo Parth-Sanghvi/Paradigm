@@ -1,5 +1,5 @@
 # Paradigm
-Complete Machine Learning workflow to provide a Asset Intelligence product for Paradigm, a Fin-Tech startup based out of California.
+Complete Machine Learning workflow to provide a Asset Intelligence product for Paradigm, a Fin-Tech startup based out of California. Paradigm's mission is to completely automate Digital Asset trading. This project helps create Paradigm more value by exploiting NLP based Deep Learning, specifically LSTMs in order to detect and display significant news articles from all around the globe that might affect the price of any financial asset.
 
 # Executive Summary
 
